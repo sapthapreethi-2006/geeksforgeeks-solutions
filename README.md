@@ -66,3 +66,6 @@ Browse the repository by topic and open the required Java solution to understand
 - ## 🤝 Contributing
 
 Suggestions and improvements are welcome through Issues and Pull Requests.
+## 📄 License
+
+This repository is intended for educational and interview preparation purposes.
