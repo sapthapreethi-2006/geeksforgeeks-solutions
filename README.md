@@ -53,3 +53,6 @@ Each solution focuses on:
 - Build coding interview confidence
 - Master important DSA patterns
 - Write optimized Java solutions
+## ▶ Usage
+
+Browse the repository by topic and open the required Java solution to understand the implementation and approach.
