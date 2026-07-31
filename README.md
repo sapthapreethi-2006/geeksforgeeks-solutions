@@ -69,3 +69,8 @@ Suggestions and improvements are welcome through Issues and Pull Requests.
 ## 📄 License
 
 This repository is intended for educational and interview preparation purposes.
+## 👩‍💻 Author
+
+**Saptha Preethi**
+
+GitHub: https://github.com/sapthapreethi-2006
