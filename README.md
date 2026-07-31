@@ -56,3 +56,10 @@ Each solution focuses on:
 ## ▶ Usage
 
 Browse the repository by topic and open the required Java solution to understand the implementation and approach.
+## 🚀 Future Improvements
+
+- Add explanations for every solution
+- Include time complexity
+- Include space complexity
+- Organize solutions by difficulty level
+- Cover additional interview questions
