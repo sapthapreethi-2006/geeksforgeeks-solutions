@@ -33,3 +33,6 @@ This repository contains my Java solutions to various GeeksforGeeks coding probl
 - Sorting
 - Searching
 - Hashing
+## 💻 Programming Language
+
+- Java
