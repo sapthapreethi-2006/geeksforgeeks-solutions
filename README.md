@@ -39,3 +39,11 @@ This repository contains my Java solutions to various GeeksforGeeks coding probl
 - ## 📂 Repository Structure
 
 The repository is organized by problem categories. Each solution is implemented in Java and grouped based on the corresponding Data Structures and Algorithms topic.
+## 🧠 Problem Solving Approach
+
+Each solution focuses on:
+
+- Understanding the problem statement
+- Selecting an efficient algorithm
+- Writing clean and readable Java code
+- Optimizing time and space complexity
