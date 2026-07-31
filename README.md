@@ -16,3 +16,20 @@ This repository contains my Java solutions to various GeeksforGeeks coding probl
 - Interview Preparation
 - Optimized Implementations
 - Clean Code
+## 📚 Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Search Trees
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Recursion
+- Backtracking
+- Sorting
+- Searching
+- Hashing
