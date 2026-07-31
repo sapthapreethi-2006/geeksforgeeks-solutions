@@ -36,3 +36,6 @@ This repository contains my Java solutions to various GeeksforGeeks coding probl
 ## 💻 Programming Language
 
 - Java
+- ## 📂 Repository Structure
+
+The repository is organized by problem categories. Each solution is implemented in Java and grouped based on the corresponding Data Structures and Algorithms topic.
