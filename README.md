@@ -47,3 +47,9 @@ Each solution focuses on:
 - Selecting an efficient algorithm
 - Writing clean and readable Java code
 - Optimizing time and space complexity
+## 📈 Learning Goals
+
+- Improve logical thinking
+- Build coding interview confidence
+- Master important DSA patterns
+- Write optimized Java solutions
