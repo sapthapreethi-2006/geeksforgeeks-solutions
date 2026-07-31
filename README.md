@@ -9,3 +9,10 @@ This repository contains my Java solutions to various GeeksforGeeks coding probl
 - Improve coding speed
 - Learn optimized algorithms
 - Maintain organized solutions
+## ✨ Repository Highlights
+
+- Java Solutions
+- Topic-wise Practice
+- Interview Preparation
+- Optimized Implementations
+- Clean Code
